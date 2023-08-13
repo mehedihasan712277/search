@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <p id="txt">
+        Lorem ipsum dolor sit, amet consectetur adipisicing elit. Iure ab at fugit eum quibusdam qui earum nisi corrupti
+        suscipit veniam.
+    </p>
+    <input type="text" id="input" onfocus="vanish()">
+    <button onclick="myF()">Search</button>
+    <p id="display"></p>
+    <p id="display1"></p>
+    <script src="main.js"></script>
+</body>
+
+</html>
